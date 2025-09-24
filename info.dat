@@ -1,17 +1,19 @@
 info
 Welcome to Reliable Guild!
-Participate in tournaments and follow events here.
-All matches are automatically updated.
+Track all tournaments and events here.
+Supports team matches of any size and auto-scaling brackets.
 
 ===
 tournaments
-Round 1 | Player1 vs Player2 | Ongoing
-Round 1 | Player3 vs Player4 | Ongoing
-Round 1 | Player5 vs Player6 | Ongoing
-Round 1 | Player7 vs Player8 | Ongoing
+Round 1 | Team1 (4v4) vs Team2 (4v4) | Ongoing
+Round 1 | Team3 (4v4) vs Team4 (4v4) | Ongoing
+Round 1 | Team5 (4v4) vs Team6 (4v4) | Ongoing
+Round 1 | Team7 (4v4) vs Team8 (4v4) | Ongoing
 Round 2 | Winner R1-1 vs Winner R1-2 | Locked
 Round 2 | Winner R1-3 vs Winner R1-4 | Locked
-Final | Winner R2-1 vs Winner R2-2 | Locked
+Quarterfinal | TBD vs TBD | Locked
+Semifinal | TBD vs TBD | Locked
+Final | TBD vs TBD | Locked
 
 ===
 events
